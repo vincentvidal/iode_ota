@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1582043994,
+      "filename": "lineage-16.0-20200218-UNOFFICIAL-zerofltexx.zip",
+      "id": "43f2c5593a554bd91c666579af4b3bc1",
+      "romtype": "UNOFFICIAL",
+      "size": 694946814,
+      "url": "https://github.com/vincentvidal/iode_ota/releases/download/v1/lineage-16.0-20200218-UNOFFICIAL-zerofltexx.zip",
+      "version": "16.0"
+    }
+  ]
+}
