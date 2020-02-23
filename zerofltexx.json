@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1582380602,
-      "filename": "lineage-16.0-20200222-UNOFFICIAL-zerofltexx.zip",
-      "id": "a95703fee0842c8a10418ff14e5b51a8",
+      "datetime": 1582450560,
+      "filename": "lineage-16.0-20200223-UNOFFICIAL-zerofltexx.zip",
+      "id": "d518d592f40640370a3f541d62fbb798",
       "romtype": "UNOFFICIAL",
-      "size": 706166632,
-      "url": "https://github.com/vincentvidal/iode_ota/releases/download/v1/lineage-16.0-20200222-UNOFFICIAL-zerofltexx.zip",
+      "size": 706197590,
+      "url": "https://github.com/vincentvidal/iode_ota/releases/download/v1/lineage-16.0-20200223-UNOFFICIAL-zerofltexx.zip",
       "version": "16.0"
     }
   ]
