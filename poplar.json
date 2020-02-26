@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1582745252,
+      "filename": "lineage-17.1-20200226-UNOFFICIAL-poplar.zip",
+      "id": "7d3c660dee557e76df8a4b69eaf05e38",
+      "romtype": "UNOFFICIAL",
+      "size": 933469433,
+      "url": "https://github.com/vincentvidal/iode_ota/releases/download/v1/lineage-17.1-20200226-UNOFFICIAL-poplar.zip",
+      "version": "17.1"
+    }
+  ]
+}
