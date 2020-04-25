@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1586269919,
-      "filename": "lineage-16.0-20200407-UNOFFICIAL-poplar.zip",
-      "id": "b41cdb8cba380fd20c8c49d62f84cce4",
+      "datetime": 1587590040,
+      "filename": "lineage-16.0-20200422-UNOFFICIAL-poplar.zip",
+        "id": "c213e88ceac8b551bef00f529f3c2c45",
       "romtype": "UNOFFICIAL",
-      "size": 907024002,
-      "url": "https://github.com/vincentvidal/iode_ota/releases/download/v1/lineage-16.0-20200407-UNOFFICIAL-poplar.zip",
+      "size": 897050202,
+      "url": "https://github.com/iodeOS/ota/releases/download/v1.0/lineage-16.0-20200422-UNOFFICIAL-poplar.zip",
       "version": "16.0"
     }
   ]
